@@ -1,0 +1,1 @@
+Some versions of eclipse will not compile this code. Current versions of Eclipse Luna will, but make sure the execution environment is Java 8.
